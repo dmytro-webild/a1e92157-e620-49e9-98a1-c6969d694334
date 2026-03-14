@@ -25,19 +25,19 @@ export default function LandingPage() {
   const heroTestimonials = [
     {
       name: "David M.",      handle: "@davidm_telaviv",      testimonial: "Excellent service, friendly and efficient. Got my tires replaced in 20 minutes!",      rating: 5,
-      imageSrc: "https://img.freepik.com/free-photo/portrait-businessman-smiling-looking-camera_1150-1778.jpg",      imageAlt: "David Moshe customer review"
+      imageSrc: "https://img.freepik.com/free-photo/portrait-businessman-smiling-looking-camera_1150-1778.jpg?_wi=1",      imageAlt: "David Moshe customer review"
     },
     {
       name: "Sara K.",      handle: "@sarak_driver",      testimonial: "Excellent work at excellent price. Highly recommend for anyone in Tel Aviv.",      rating: 5,
-      imageSrc: "https://img.freepik.com/free-photo/portrait-young-woman-smiling_1150-11532.jpg",      imageAlt: "Sara Kaplan customer review"
+      imageSrc: "https://img.freepik.com/free-photo/portrait-young-woman-smiling_1150-11532.jpg?_wi=1",      imageAlt: "Sara Kaplan customer review"
     },
     {
       name: "Yosef L.",      handle: "@yosef_automotive",      testimonial: "Professional team, honest pricing, and fast turnaround. Will be back!",      rating: 5,
-      imageSrc: "https://img.freepik.com/free-photo/portrait-confident-man-smiling_1150-1779.jpg",      imageAlt: "Yosef Levi customer review"
+      imageSrc: "https://img.freepik.com/free-photo/portrait-confident-man-smiling_1150-1779.jpg?_wi=1",      imageAlt: "Yosef Levi customer review"
     },
     {
       name: "Mira T.",      handle: "@mirat_il",      testimonial: "Fixed my flat tire same day. Great customer service and fair rates.",      rating: 5,
-      imageSrc: "https://img.freepik.com/free-photo/portrait-woman-smiling_1150-1533.jpg",      imageAlt: "Mira Tzur customer review"
+      imageSrc: "https://img.freepik.com/free-photo/portrait-woman-smiling_1150-1533.jpg?_wi=1",      imageAlt: "Mira Tzur customer review"
     }
   ];
 
@@ -76,16 +76,16 @@ export default function LandingPage() {
 
   const testimonialCards = [
     {
-      id: "testimonial-1",      name: "David Moshe",      handle: "@davidm_telaviv",      testimonial: "Excellent service, friendly and efficient team. Got my tires replaced in 20 minutes. Will definitely come back!",      imageSrc: "https://img.freepik.com/free-photo/portrait-businessman-smiling-looking-camera_1150-1778.jpg",      imageAlt: "David Moshe customer review",      icon: Star
+      id: "testimonial-1",      name: "David Moshe",      handle: "@davidm_telaviv",      testimonial: "Excellent service, friendly and efficient team. Got my tires replaced in 20 minutes. Will definitely come back!",      imageSrc: "https://img.freepik.com/free-photo/portrait-businessman-smiling-looking-camera_1150-1778.jpg?_wi=2",      imageAlt: "David Moshe customer review",      icon: Star
     },
     {
-      id: "testimonial-2",      name: "Sara Kaplan",      handle: "@sarak_driver",      testimonial: "Excellent work at excellent prices. The technicians were professional and thorough. Highly recommend for anyone in Tel Aviv.",      imageSrc: "https://img.freepik.com/free-photo/portrait-young-woman-smiling_1150-11532.jpg",      imageAlt: "Sara Kaplan customer review",      icon: Star
+      id: "testimonial-2",      name: "Sara Kaplan",      handle: "@sarak_driver",      testimonial: "Excellent work at excellent prices. The technicians were professional and thorough. Highly recommend for anyone in Tel Aviv.",      imageSrc: "https://img.freepik.com/free-photo/portrait-young-woman-smiling_1150-11532.jpg?_wi=2",      imageAlt: "Sara Kaplan customer review",      icon: Star
     },
     {
-      id: "testimonial-3",      name: "Yosef Levi",      handle: "@yosef_automotive",      testimonial: "Professional team, honest pricing, and incredibly fast service. Best tire shop in the area. Will be back for sure!",      imageSrc: "https://img.freepik.com/free-photo/portrait-confident-man-smiling_1150-1779.jpg",      imageAlt: "Yosef Levi customer review",      icon: Star
+      id: "testimonial-3",      name: "Yosef Levi",      handle: "@yosef_automotive",      testimonial: "Professional team, honest pricing, and incredibly fast service. Best tire shop in the area. Will be back for sure!",      imageSrc: "https://img.freepik.com/free-photo/portrait-confident-man-smiling_1150-1779.jpg?_wi=2",      imageAlt: "Yosef Levi customer review",      icon: Star
     },
     {
-      id: "testimonial-4",      name: "Mira Tzur",      handle: "@mirat_il",      testimonial: "Fixed my flat tire same day with excellent customer service. Fair rates and quality work. Highly trusted!",      imageSrc: "https://img.freepik.com/free-photo/portrait-woman-smiling_1150-1533.jpg",      imageAlt: "Mira Tzur customer review",      icon: Star
+      id: "testimonial-4",      name: "Mira Tzur",      handle: "@mirat_il",      testimonial: "Fixed my flat tire same day with excellent customer service. Fair rates and quality work. Highly trusted!",      imageSrc: "https://img.freepik.com/free-photo/portrait-woman-smiling_1150-1533.jpg?_wi=2",      imageAlt: "Mira Tzur customer review",      icon: Star
     },
     {
       id: "testimonial-5",      name: "Omer Chen",      handle: "@omer_driver",      testimonial: "Great experience. Fast, professional, and friendly. Saved me a lot of money compared to other tire shops in the city.",      imageSrc: "https://img.freepik.com/free-photo/portrait-man-smiling_1150-1780.jpg",      imageAlt: "Omer Chen customer review",      icon: Star
